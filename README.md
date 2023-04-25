@@ -1,6 +1,8 @@
 # yes_no_app
 
-A new Flutter project.
+A new Flutter project. [flutter-movil-cero-a-experto-app-yesno-app](https://cursos.devtalles.com/courses/take/flutter-movil-cero-a-experto/lessons/42616536-inicio-de-app-yesno-app)
+
+
 
 ## Getting Started
 
