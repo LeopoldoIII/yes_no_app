@@ -16,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+commit: [Global theme](https://github.com/LeopoldoIII/yes_no_app/commit/ad73144d40281f020cd71d396584c073055e6ef0)   
+
+
+![image](https://user-images.githubusercontent.com/26559577/234348707-38a6c8b9-b4c7-47e1-be91-7bedd30fd98d.png)
+
