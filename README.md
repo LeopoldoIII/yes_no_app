@@ -26,3 +26,10 @@ commit: [Chat Screen](https://github.com/LeopoldoIII/yes_no_app/commit/f04e0354b
 
 ![image](https://user-images.githubusercontent.com/26559577/234656351-91e93c94-02be-48c8-a396-3198fab5fe1d.png)
 
+
+commit: [ListView](https://github.com/LeopoldoIII/yes_no_app/commit/e0da1f37fe1219f25abda70439267737583ce730)
+
+
+![image](https://user-images.githubusercontent.com/26559577/234687248-7fdc32fa-6f25-49a7-8a44-c779784b58cf.png)
+
+
