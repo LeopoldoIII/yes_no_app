@@ -22,3 +22,7 @@ commit: [Global theme](https://github.com/LeopoldoIII/yes_no_app/commit/ad73144d
 
 ![image](https://user-images.githubusercontent.com/26559577/234348707-38a6c8b9-b4c7-47e1-be91-7bedd30fd98d.png)
 
+commit: [Chat Screen](https://github.com/LeopoldoIII/yes_no_app/commit/f04e0354b97fc24affa57113a01cf9caec02872c)
+
+![image](https://user-images.githubusercontent.com/26559577/234656351-91e93c94-02be-48c8-a396-3198fab5fe1d.png)
+
