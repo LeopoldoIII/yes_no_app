@@ -17,6 +17,29 @@ class ChatScreen extends StatelessWidget {
         title: const Text('Yo'),
         centerTitle: false,
       ),
+      body: _ChatView(),
+    );
+  }
+}
+
+class _ChatView extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 10),
+        child: Column(
+          children: [
+            Expanded(
+                child: ListView.builder(
+                    itemCount: 50,
+                    itemBuilder: (context, index) {
+                      return Text('Indice: $index');
+                    })),
+            Text('Hola'),
+          ],
+        ),
+      ),
     );
   }
 }
