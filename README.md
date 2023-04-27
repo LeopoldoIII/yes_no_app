@@ -33,3 +33,7 @@ commit: [ListView](https://github.com/LeopoldoIII/yes_no_app/commit/e0da1f37fe12
 ![image](https://user-images.githubusercontent.com/26559577/234687248-7fdc32fa-6f25-49a7-8a44-c779784b58cf.png)
 
 
+commit: [bubble chat](https://github.com/LeopoldoIII/yes_no_app/commit/9f9b764bcc2346143885b57d99df82c9d57cdbef)
+
+
+![image](https://user-images.githubusercontent.com/26559577/234749198-ce95f000-d85f-4275-b045-d5b6165123e1.png)
