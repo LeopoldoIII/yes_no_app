@@ -20,20 +20,25 @@ samples, guidance on mobile development, and a full API reference.
 commit: [Global theme](https://github.com/LeopoldoIII/yes_no_app/commit/ad73144d40281f020cd71d396584c073055e6ef0)   
 
 
-![image](https://user-images.githubusercontent.com/26559577/234348707-38a6c8b9-b4c7-47e1-be91-7bedd30fd98d.png)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/234348707-38a6c8b9-b4c7-47e1-be91-7bedd30fd98d.png">
 
 commit: [Chat Screen](https://github.com/LeopoldoIII/yes_no_app/commit/f04e0354b97fc24affa57113a01cf9caec02872c)
 
-![image](https://user-images.githubusercontent.com/26559577/234656351-91e93c94-02be-48c8-a396-3198fab5fe1d.png)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/234656351-91e93c94-02be-48c8-a396-3198fab5fe1d.png">
 
 
 commit: [ListView](https://github.com/LeopoldoIII/yes_no_app/commit/e0da1f37fe1219f25abda70439267737583ce730)
 
 
-![image](https://user-images.githubusercontent.com/26559577/234687248-7fdc32fa-6f25-49a7-8a44-c779784b58cf.png)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/234687248-7fdc32fa-6f25-49a7-8a44-c779784b58cf.png">
 
 
 commit: [bubble chat](https://github.com/LeopoldoIII/yes_no_app/commit/9f9b764bcc2346143885b57d99df82c9d57cdbef)
 
 
-![image](https://user-images.githubusercontent.com/26559577/234749198-ce95f000-d85f-4275-b045-d5b6165123e1.png)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/234749198-ce95f000-d85f-4275-b045-d5b6165123e1.png">
+
+commit: [Bubble her](https://github.com/LeopoldoIII/yes_no_app/commit/88847b47bdc845975904a813a3cd5f2e114cf326)
+
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/235330863-3373c8fc-3740-4b67-93d0-6b144588e604.png">
+
