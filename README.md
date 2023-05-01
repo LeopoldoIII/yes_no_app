@@ -42,3 +42,8 @@ commit: [Bubble her](https://github.com/LeopoldoIII/yes_no_app/commit/88847b47bd
 
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/235330863-3373c8fc-3740-4b67-93d0-6b144588e604.png">
 
+commit: [loadingBuilder](https://github.com/LeopoldoIII/yes_no_app/commit/e678c896b5d031ad9cd862737260203129e211de)
+
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/26559577/235396381-9d9044b6-b8e1-40b0-ab0b-47e40b23e602.png">
+
+
