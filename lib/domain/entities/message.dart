@@ -1,4 +1,4 @@
-enum FromWho { mine, heres }
+enum FromWho { me, here }
 
 class Message {
   final String text;
