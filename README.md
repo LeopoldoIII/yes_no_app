@@ -55,4 +55,9 @@ commit: [Provider](https://github.com/LeopoldoIII/yes_no_app/commit/13a54ac122a2
 
 <img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/491676cb-6305-4351-9164-3a745f7fe0c1">
 
+commit: [adding messages, move scroll](https://github.com/LeopoldoIII/yes_no_app/commit/ad2de19e911c30928db9827f2749fc22e5a2970a)
+
+<img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/c1256851-0fa7-472f-bac0-44008ab0d16c">
+
+
 
