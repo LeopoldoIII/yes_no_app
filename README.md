@@ -59,5 +59,8 @@ commit: [adding messages, move scroll](https://github.com/LeopoldoIII/yes_no_app
 
 <img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/c1256851-0fa7-472f-bac0-44008ab0d16c">
 
+commit: [api, mappers](https://github.com/LeopoldoIII/yes_no_app/commit/828c3875dccf5b8b076470a36645d6ba47c5e560)
+
+<img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/af5b3726-f67a-49bc-8896-d34e437a8cd7">
 
 
