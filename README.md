@@ -64,3 +64,10 @@ commit: [api, mappers](https://github.com/LeopoldoIII/yes_no_app/commit/828c3875
 <img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/af5b3726-f67a-49bc-8896-d34e437a8cd7">
 
 
+commit: [andom messages](https://github.com/LeopoldoIII/yes_no_app/commits/master)
+
+<img width="224" alt="image" src="https://github.com/LeopoldoIII/yes_no_app/assets/26559577/a077714e-c50c-4f39-849b-2032af6d8e89">
+
+
+
+
